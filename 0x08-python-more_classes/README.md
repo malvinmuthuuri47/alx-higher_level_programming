@@ -1,1 +1,1 @@
-More Python classes notes and tasks
+More Python classes and objects
