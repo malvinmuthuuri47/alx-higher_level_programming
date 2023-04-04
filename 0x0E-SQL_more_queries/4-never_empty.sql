@@ -3,6 +3,6 @@
 -- if table exists, the script shouldn't fail
 
 CREATE TABLE IF NOT EXISTS id_not_null(
-	id INT,
+	id INT DEFAULT 1,
 	name VARCHAR(256)
 	);
