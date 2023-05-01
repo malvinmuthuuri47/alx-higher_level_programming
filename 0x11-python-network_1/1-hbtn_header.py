@@ -5,7 +5,8 @@ the dictionary key passed to it using the method GET.
 """
 
 import urllib.request
+import sys
+
 if __name__ == "__main__":
-    url = "https://alx-intranet.hbtn.io/status"
-    with urllib.request.urlopen(url) as response:
+    with urllib.request.urlopen(sys.argv[1]) as response:
         print(response.headers.get("X-Request-Id"))
