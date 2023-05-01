@@ -1,6 +1,7 @@
 #!/usr/bin/python3
 """
-    This script takes a URL, sends a request to that URL and displays the body of the response(decoded in utf-8)
+    This script takes a URL, sends a request to that URL and displays
+    the body of the response(decoded in utf-8)
 """
 import urllib.request
 import sys
