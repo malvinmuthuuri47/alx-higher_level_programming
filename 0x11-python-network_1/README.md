@@ -1,3 +1,5 @@
+<DOCTYPE HTML>
+<html>
 <body>
 	<h1>0x11. Python - Network #1</h1>
 
@@ -7,3 +9,4 @@
 		<p>Contributors:</p>
 		<p><i>Malvin Muthuuri</i></p>
 </body>
+</html>
