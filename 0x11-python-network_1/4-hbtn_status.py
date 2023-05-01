@@ -1,8 +1,6 @@
 #!/usr/bin/python3
 import requests
-"""
-    This python script fetches a specified URL using the package requests
-"""
+"""This python script fetches a specified URL using the package requests"""
 
 
 if __name__ == "__main__":
