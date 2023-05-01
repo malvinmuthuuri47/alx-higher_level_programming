@@ -7,5 +7,7 @@ import sys
 import requests
 
 
-response = requests.get(sys.argv[1])
-print(response.headers["X-Request-Id"])
+if __name__ == "__main__":
+    url = sys.argv[1]
+    response = requests.get(uel)
+    print(response.headers["X-Request-Id"])
