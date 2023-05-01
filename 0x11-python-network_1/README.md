@@ -1,12 +1,6 @@
-<DOCTYPE HTML>
-<html>
-<body>
-	<h1>0x11. Python - Network #1</h1>
+0x11. Python - Network #1
 
-	<p>This project is meant to introduce the concept of Python Networking where you are introduced to Fetching Internet resources using urllib package.</p>
+This project is meant to introduce the concept of Python Networking where you are introduced to Fetching Internet resources using urllib package.
 
-	<ul>
-		<p>Contributors:</p>
-		<p><i>Malvin Muthuuri</i></p>
-</body>
-</html>
+Contributors:
+Malvin Muthuuri
