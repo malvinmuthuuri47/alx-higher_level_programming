@@ -6,5 +6,8 @@ import sys
     the value of the variable provided in the response header
 """
 
-response = requests.get(sys.argv[1])
-print(response.headers["X-Request-Id"])
+if __name__ == "__main__":
+    url = sys.argv[1]
+
+    response = requests.get(url)
+    print(response.headers["X-Request-Id"])
